@@ -1,2 +1,2 @@
-# Pruning--Deep-Learning
+# Enhancing Neural Networks through Pruning 
 Pruning VGG16 model
